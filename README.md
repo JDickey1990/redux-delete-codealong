@@ -7,6 +7,8 @@ this lesson, you will be able to:
 
   * Delete individual elements
 
+  
+
 ## Review and Goal
 
 Throughout each code along in this section, notice that we are never updating
